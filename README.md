@@ -8,4 +8,7 @@
 <h3><a href="https://github.com/google/gson/blob/master/UserGuide.md">1,JSON解析库：GSON</a></h3>
 <h3><a href="https://github.com/LitePalFramework/LitePal">2,开源数据库：LitePal</a></h3>
 <h3><a href="https://muyangmin.github.io/glide-docs-cn/doc/transitions.html">3,图片加载框架：Glide</a></h3>
+  <h1>效果</h1>
 <img src="https://raw.githubusercontent.com/chengliuxiangZR/WeatherAssistant/master/home.png"></img>
+
+  
