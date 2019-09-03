@@ -10,5 +10,7 @@
 <h3><a href="https://muyangmin.github.io/glide-docs-cn/doc/transitions.html">3,图片加载框架：Glide</a></h3>
   <h1>效果</h1>
 <img src="https://raw.githubusercontent.com/chengliuxiangZR/WeatherAssistant/master/home.png"></img>
+<img src="https://raw.githubusercontent.com/chengliuxiangZR/WeatherAssistant/master/UI.png"></img>
+<img src="https://raw.githubusercontent.com/chengliuxiangZR/WeatherAssistant/master/areaSelect.png"></img>
 
   
